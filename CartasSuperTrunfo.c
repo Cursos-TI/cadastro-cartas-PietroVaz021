@@ -1,3 +1,13 @@
+//Usei dados ficticios para as informaçoes apenas para testar a copilação e funcionamento ex: POP=1234 AREA 12345
+//exemplos dos codigos e UF serão exibidos na hora da pergunta
+
+//usei um tecnica mais avançada para permitir nomes com espaços (ja estou no nivel a frente so nao tinha enviado)
+//O fgets é projetado para trabalhar com entradas completas (permitindo espaços).
+//getchar para poder achar o espaço corretamente e nao pular linha 
+    
+
+
+
 #include <stdio.h>
 
 int main(void) {
@@ -21,18 +31,7 @@ int main(void) {
     float pib2;
     int pontos_turisticos2;
 
-    //Usei dados ficticios para as informaçoes apenas para testar a copilação e funcionamento ex: POP=1234 AREA 12345
-    
-    //exemplos dos codigos e UF serão exibidos na hora da pergunta
-
-    //usei um tecnica mais avançada para permitir nomes com espaços (ja estou no nivel a frente so nao tinha enviado)
-    //O fgets é projetado para trabalhar com entradas completas (permitindo espaços).
-    //getchar para poder achar o espaço corretamente e nao pyuklar a linha 
-    
   
-    
-   
-    
     // ===== Entrada Carta 1 =====
 
     printf("\n----- Primeira Carta -----\n");
